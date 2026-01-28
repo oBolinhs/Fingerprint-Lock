@@ -23,8 +23,8 @@ const char* topicState = "bernas/door/state";
 const char* authAdd = "bernas/door/addauth";
 
 //configuração de ligação à database
-#define API_KEY "AIzaSyAoHBkVgOBatAURRIdDT-zaduk0hHYrxLs"
-#define DATABASE_URL "smartlock-44b7d-default-rtdb.europe-west1.firebasedatabase.app"
+#define API_KEY ""
+#define DATABASE_URL ""
 
 #define USER_EMAIL "esp32@gmail.com"
 #define USER_PASSWORD "12345678"
